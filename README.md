@@ -10,7 +10,7 @@
 - GitHub
 - Replit
 - Spyder
-- Slack
+
 #  
 
 <!---
